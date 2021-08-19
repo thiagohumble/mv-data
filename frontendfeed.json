@@ -1,12 +1,9 @@
 {
 	"feedgroup": [
 		{
-			"category": "Link",
-			"feedlink": "https://noti.st/ire/c77PcP/css-for-the-next-billion-users#s6YGiCT",
-			"feedtitle": "CSS for the Next Billion Users",
-			"feedcontent": "Ire Aderinokun lays out how to approach writing CSS so that the next billion users coming online can access your sites.",
-			"feedbutton": "https://noti.st/ire/c77PcP/css-for-the-next-billion-users#s6YGiCT",
-			"feedbuttontext": "Read Article"
+			"feedlink": "www.humbletrips.com.br",
+			"feedtitle": "Humble Trips\n\n",
+			"feedbutton": "meet the humble trips"
 		},
 		{
 			"category": "Link",
@@ -14,6 +11,14 @@
 			"feedtitle": "When Not to Build a Design System",
 			"feedcontent": "Some times when it doesn't make sense to build a full design system.",
 			"feedbutton": "https://seesparkbox.com/foundry/when_not_to_use_a_design_system",
+			"feedbuttontext": "Read Article"
+		},
+		{
+			"category": "Link",
+			"feedlink": "https://noti.st/ire/c77PcP/css-for-the-next-billion-users#s6YGiCT",
+			"feedtitle": "CSS for the Next Billion Users",
+			"feedcontent": "Ire Aderinokun lays out how to approach writing CSS so that the next billion users coming online can access your sites.",
+			"feedbutton": "https://noti.st/ire/c77PcP/css-for-the-next-billion-users#s6YGiCT",
 			"feedbuttontext": "Read Article"
 		},
 		{
