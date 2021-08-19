@@ -1,10 +1,12 @@
 {
 	"feedgroup": [
 		{
-			"feedlink": "www.humbletrips.com.br",
+			"feedlink": "https://www.humbletrips.com.br",
 			"feedtitle": "Humble Trips\n\n",
 			"feedcontent": "Do you know the Humble Trips?",
-			"feedbutton": "meet the humble trips"
+			"feedbutton": "meet the humble trips",
+			"category": "",
+			"feedbuttontext": ""
 		},
 		{
 			"category": "Link",
